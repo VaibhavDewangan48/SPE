@@ -8,7 +8,7 @@ int main() {
   
     // This statement prints "Hello World"
     cout << "Hello World" << endl;
-    cout << "This is Vaibhav" << endl;
+    cout << "This is Vaibhav" >> endl;
 
     return 0;
 }
